@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @igorium3345
-- 👀 I’m interested in Python and C
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Embeddded Coding
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on Game Design
 - 📫 How to reach me mencekli_ugur@hotmail.com
 
